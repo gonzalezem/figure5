@@ -1,0 +1,262 @@
+[
+    {
+        "companions": [
+            "actin (0018s0700)"
+        ],
+        "name": "|57",
+        "size": 25,
+        "species": "Carassius Auratus"
+    },
+    {
+        "companions": [
+            "myosin heavy chain-like protein (0019s0450)"
+        ],
+        "name": "|84",
+        "size": 45,
+        "species": "Carassius Auratus"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0330)"
+        ],
+        "name": "|145",
+        "size": 1,
+        "species": "Carassius Auratus"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0340)"
+        ],
+        "name": "|146",
+        "size": 3,
+        "species": "Carassius Auratus"
+    },
+    {
+        "companions": [
+            "actin (0251s0180)"
+        ],
+        "name": "|6614",
+        "size": 77,
+        "species": "Carassius Auratus"
+    },
+    {
+        "companions": [
+            "myosin heavy chain-like protein (0019s0450)"
+        ],
+        "name": "|10577",
+        "size": 1994,
+        "species": "Mammuthus primigenius"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0330)"
+        ],
+        "name": "|11442",
+        "size": 1,
+        "species": "Mammuthus primigenius"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0340)"
+        ],
+        "name": "|11443",
+        "size": 3,
+        "species": "Mammuthus primigenius"
+    },
+    {
+        "companions": [
+            "actin (0018s0700)"
+        ],
+        "name": "|16891",
+        "size": 1,
+        "species": "Mammuthus primigenius"
+    },
+    {
+        "companions": [
+            "actin (0251s0180)"
+        ],
+        "name": "|20354",
+        "size": 2,
+        "species": "Mammuthus primigenius"
+    },
+    {
+        "companions": [
+            "actin (0018s0700)"
+        ],
+        "name": "|25494",
+        "size": 152,
+        "species": "Oryza sativa"
+    },
+    {
+        "companions": [
+            "myosin heavy chain-like protein (0019s0450)"
+        ],
+        "name": "|25668",
+        "size": 4,
+        "species": "Oryza sativa"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0330)"
+        ],
+        "name": "|35263",
+        "size": 4045,
+        "species": "Oryza sativa"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0340)"
+        ],
+        "name": "|39308",
+        "size": 9610,
+        "species": "Oryza sativa"
+    },
+    {
+        "companions": [
+            "actin (0251s0180)"
+        ],
+        "name": "|65470",
+        "size": 135,
+        "species": "Oryza sativa"
+    },
+    {
+        "companions": [
+            "actin (0018s0700)"
+        ],
+        "name": "|93784",
+        "size": 10,
+        "species": "Pleurocybella porrigens"
+    },
+    {
+        "companions": [
+            "myosin heavy chain-like protein (0019s0450)"
+        ],
+        "name": "|93789",
+        "size": 50,
+        "species": "Pleurocybella porrigens"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0330)"
+        ],
+        "name": "|93860",
+        "size": 14,
+        "species": "Pleurocybella porrigens"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0340)"
+        ],
+        "name": "|93872",
+        "size": 38,
+        "species": "Pleurocybella porrigens"
+    },
+    {
+        "companions": [
+            "actin (0251s0180)"
+        ],
+        "name": "|111937",
+        "size": 12,
+        "species": "Pleurocybella porrigens"
+    },
+    {
+        "companions": [
+            "actin (0018s0700)"
+        ],
+        "name": "|157179",
+        "size": 1082,
+        "species": "Homo sapiens"
+    },
+    {
+        "companions": [
+            "myosin heavy chain-like protein (0019s0450)"
+        ],
+        "name": "|157288",
+        "size": 2308,
+        "species": "Homo sapiens"
+    },
+    {
+        "companions": [
+            "actin (0251s0180)"
+        ],
+        "name": "|170966",
+        "size": 2730,
+        "species": "Homo sapiens"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0330)"
+        ],
+        "name": "|173308",
+        "size": 8,
+        "species": "Homo sapiens"
+    },
+    {
+        "companions": [
+            "elongation factor 1-alpha (0023s0340)"
+        ],
+        "name": "|173310",
+        "size": 8,
+        "species": "Homo sapiens"
+    },
+    {
+        "companions": [
+            "|57",
+            "|16891",
+            "|25494",
+            "|93784",
+            "|157179"
+        ],
+        "name": "actin (0018s0700)|",
+        "size": 1270,
+        "species": "Salix purpurea 94006"
+    },
+    {
+        "companions": [
+            "|6614",
+            "|20354",
+            "|65470",
+            "|111937",
+            "|170966"
+        ],
+        "name": "actin (0251s0180)|",
+        "size": 2956,
+        "species": "Salix purpurea 94006"
+    },
+    {
+        "companions": [
+            "|145",
+            "|11442",
+            "|35263",
+            "|93860",
+            "|173308"
+        ],
+        "name": "elongation factor 1-alpha (0023s0330)|",
+        "size": 4069,
+        "species": "Salix purpurea 94006"
+    },
+    {
+        "companions": [
+            "|146",
+            "|11443",
+            "|39308",
+            "|93872",
+            "|173310"
+        ],
+        "name": "elongation factor 1-alpha (0023s0340)|",
+        "size": 9662,
+        "species": "Salix purpurea 94006"
+    },
+    {
+        "companions": [
+            "|84",
+            "|10577",
+            "|25668",
+            "|93789",
+            "|157288"
+        ],
+        "name": "myosin heavy chain-like protein (0019s0450)|",
+        "size": 4401,
+        "species": "Salix purpurea 94006"
+    }
+]
