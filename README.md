@@ -6,4 +6,4 @@ This interactive graphic vizualizes the number of RNA-Seq data that is mismap to
 Code:
 Written by <a href="http://www.transcriptomics.org">Emmanuel Gonzalez</a> in <a href="http://bl.ocks.org/mbostock/4062006">d3 javascript</a>
 
-<h3><a href="http://htmlpreview.github.io/?https://github.com/gonzalezem/figure5/blob/master/index.html">CICK HERE TO SEE FIGURE 5</a></h3>
+<h3><a target="_blank" href="http://htmlpreview.github.io/?https://github.com/gonzalezem/figure5/blob/master/index.html">CICK HERE TO SEE FIGURE 5</a></h3>
