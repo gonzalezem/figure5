@@ -1,4 +1,3 @@
-# figure5
 Figure 5 - Forced Mapping
 =========================
 
